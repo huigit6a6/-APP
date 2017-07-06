@@ -1,0 +1,43 @@
+1、jquery的遍历方法；
+2、 点击穿透
+http://www.cnblogs.com/meteoric_cry/archive/2011/07/03/2096971.html
+3、get和post请求的区别；
+4、事件托管/事件代理机制的优缺点；
+5、阻止事件冒泡方法；
+6、页面加载流程
+    http://www.educity.cn/wenda/143254.html
+    http://jingyan.baidu.com/article/03b2f78c196fd25ea237aed6.html(比较详细)
+　  1)、用户打开url链接
+　　2)、浏览器查询url的dns地址
+　　3)、提交url请求到服务器端
+　　4)、服务器端处理
+　　5)、传输处理好的html文本内容到浏览器
+　　6)、浏览器解析html，并加载css，js，图片等内容
+　　7)、加载完成，用户看到完整的页面内容
+7、动画效果；
+8、require模块化开发如何配置；
+9、我今天被问的问题：1，为什么移动端click会延迟300ms？ 2，app做好后放在哪里？我回答是服务器，结果又被问了，
+   服务器端压力很大，如何减缓压力，好，本地缓存可以，那如果存在本地缓存，如何让服务器端数据及时更新？
+   3，require依赖加载后怎么将它暴露出去
+10、 window.onload和$(document).ready()的区别:
+11、 mvvm和mvc框架的模型图,原理,区别,优缺点；
+12、事件和回调的区别；
+13、Object和Function的区别；
+14、项目中什么时候需要用到阻止冒泡；
+15、link和@import的区别；
+16、严格模式与混杂模式-doctype；
+17、11. 阻止默认操作
+ 1) e.preventDefault()
+ 2) return false
+18、获取自定义属性；
+19、dom事件流；
+20、内存泄漏；
+21、typeof与instanceof的区别；
+22、搞几种清除浮动的方式；
+23、怎么控制alert中的换行；
+24、 导航栏不刷新,点击渲染局部页面:
+  1)ajax请求,局部渲染
+  2)frameset框架(多个HTML合集)
+25、alert(location.href);弹出当前的url；
+26、window.onload和$(document).ready()的区别:
+   http://www.php100.com/html/program/jquery/2013/0905/5954.html  
